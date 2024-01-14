@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
+![](https://komarev.com/ghpvc/?username=mehmanshamil&color=blue)
 <div align="center">
  <a href="https://github.com/mehmanshamil">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Mehman+Shamilov+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
@@ -54,7 +54,7 @@
  
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/mehmanshamil/mehmanshamil/blob/main/img/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmanshamil&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="mehmanshamil" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
