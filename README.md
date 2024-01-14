@@ -1,4 +1,4 @@
-//![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
+
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 <div align="center">
  <a href="https://github.com/mehmanshamil">
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mehmansemilov1@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/CagatayAkkas?theme=unicorn)](https://leetcode.com/CagatayAkkas/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mehmanshamil?theme=unicorn)](https://leetcode.com/mehmanshamil/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -56,7 +56,7 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmanshamil&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmanshamil&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="mehmanshamil" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
