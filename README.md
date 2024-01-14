@@ -8,7 +8,7 @@
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 
-<h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
+<h3 align="left">&nbsp; A passionate Web developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on **React**
 
@@ -54,7 +54,7 @@
  
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/mehmanshamil/mehmanshamil/blob/main/img/Bird%20Wing%20Left.png">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmanshamil&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="mehmanshamil" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
