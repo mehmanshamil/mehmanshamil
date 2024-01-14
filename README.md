@@ -17,7 +17,7 @@
 - 📫 How to reach me **mehmansemilov1@gmail.com**
 
    
-[![Leetcode Stats](https://leetcard.jacoblin.cool/CagatayAkkas?theme=unicorn)](https://leetcode.com/mehmanshamil/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mehmanshamil?theme=unicorn)](https://leetcode.com/mehmanshamil/)
 
 
 <h3 align="left">Connect with me:</h3>
